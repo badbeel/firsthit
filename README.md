@@ -1,0 +1,1 @@
+[strong]I'm strong enough[/strong]
